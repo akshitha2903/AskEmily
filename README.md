@@ -68,10 +68,10 @@
 ## Screenshots
 
 - MongoDB Database  
-  ![MongoDB Database](D:\Akshi\projects\AskEmily\backend\mongodb.png)
+  ![MongoDB Database](https://github.com/akshitha2903/AskEmily/blob/main/backend/mongodb.png)
 
 - Sample Data in MongoDB  
-  ![Sample Data](D:\Akshi\projects\AskEmily\backend\postman.png)
+  ![Sample Data](https://github.com/akshitha2903/AskEmily/blob/main/backend/postman.png)
 
 ## Future Improvements
 
