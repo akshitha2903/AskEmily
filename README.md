@@ -70,7 +70,7 @@
 - MongoDB Database  
   ![MongoDB Database](https://github.com/akshitha2903/AskEmily/blob/main/backend/mongodb.png)
 
-- Sample Data in MongoDB  
+- Sample Data in Postman 
   ![Sample Data](https://github.com/akshitha2903/AskEmily/blob/main/backend/postman.png)
 
 ## Future Improvements
