@@ -68,10 +68,10 @@
 ## Screenshots
 
 - MongoDB Database  
-  ![MongoDB Database](path/to/mongodb_screenshot.png)
+  ![MongoDB Database](D:\Akshi\projects\AskEmily\backend\mongodb.png)
 
 - Sample Data in MongoDB  
-  ![Sample Data](path/to/sample_data_screenshot.png)
+  ![Sample Data](D:\Akshi\projects\AskEmily\backend\postman.png)
 
 ## Future Improvements
 
@@ -79,14 +79,3 @@
 - Development of a user-friendly frontend interface using frameworks like React or Vue.js.
 - Implementation of user authentication to personalize the experience.
 - Enhanced error handling for API calls and data retrieval.
-
-## Acknowledgments
-
-Thanks to the developers of Flask, Flask-PyMongo, and Google Maps API for providing robust frameworks and tools for building this application.
-
----
-
-### Instructions for Use
-
-- Replace `path/to/mongodb_screenshot.png` and `path/to/sample_data_screenshot.png` with the actual paths to your screenshots once you have them.
-- Update the GitHub repository link with the actual URL of your project repository.
